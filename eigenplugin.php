@@ -15,7 +15,7 @@ function prefix_add_my_stylesheet()
  * Plugin URI: gluwebURL
  * Description: Vertel hier iets over de werking van je plugin.
  Version: 1.0.0
- Author: Je Naam
+ Author: Julian van Husen
  Author URI: gluwebURL
  License: GPL-2.0+
  */
